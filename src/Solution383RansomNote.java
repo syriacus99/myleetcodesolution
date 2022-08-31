@@ -15,7 +15,10 @@ public class Solution383RansomNote {
     }
 
     public static void main(String[] args) {
-        System.out.println(canConstruct("aa","ab"));
+        String a = "abddd";
+        System.out.println(a.substring(1,3));
+
+        //System.out.println(canConstruct("aa","ab"));
 
     }
 }

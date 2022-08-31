@@ -9,5 +9,7 @@ public class Solution326PowerOfThree {
         }
 
         return n == 1;
+
+        //return Integer.toString(n, 3).matches("^10*$");
     }
 }
